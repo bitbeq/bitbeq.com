@@ -1,9 +1,7 @@
-import Summary from "@/components/home/summary"
-
 export default function Page() {
   return (
     <div>
-      <Summary />
+      <p>Projects</p>
     </div>
   )
 }
